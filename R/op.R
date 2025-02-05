@@ -69,7 +69,7 @@ menu <- function() {
   return(op1)
 }
 
-menu3 <- function() {
+menu20 <- function() {
   F <- Ingreso_columnas()
   nf1 <- F$nf
   nc1 <- F$nc
