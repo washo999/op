@@ -113,7 +113,7 @@ menu20 <- function() {
   } # cierre del while
 }
 
-menu3()
+
 
 
 
